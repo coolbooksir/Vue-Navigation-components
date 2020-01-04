@@ -1,13 +1,20 @@
-# garcf
+# Vue-Navigation-components
 
 ## Project setup
 ```
-npm install
+自己封装了一个导航栏组件
+
+1、进到项目目录下
+
+2、执行npm install安装vue、vue-cli相关依赖
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+执行npm run serve，启动本地服务
+
+在浏览器打开http://localhost:8080
+
 ```
 
 ### Compiles and minifies for production
