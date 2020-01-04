@@ -1,0 +1,8 @@
+body,ul,ol,li{
+margin: 0;
+padding: 0;
+}
+#main{
+    width: 1920px;
+    margin: 0 auto;
+}
